@@ -1,0 +1,94 @@
+<!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.01//EN&quot;
+ &quot;http://www.w3.org/TR/html4/strict.dtd&quot;>
+
+<html>
+
+<title>研究業績</title>
+<head>
+	<meta http-equiv=Content-Type content="text/html; charset=shift_jis">
+
+	<style type="text/css">
+	<!--
+	td { font-family:'ＭＳ Ｐゴシック'; font-weight:bold;}
+	-->
+	</style>
+</head>
+
+<body bgcolor="#ffffd1" lang=JA link=blue vlink=blue style='tab-interval:42.0pt'>
+	<font face="ＭＳ Ｐゴシック">
+		<b>Last Modified: December 21, 2006 </b>
+
+		<br>
+
+		<a href="http://sig.media.eng.hokudai.ac.jp/~araki/araki2.html">
+		<b>Back To Homepage</b>
+		</a>
+		<pre></pre>
+	</font>
+	
+
+	<hr>
+	<br>
+	<font face="ＭＳ Ｐゴシック" size="6" color="blue">
+		<center><i><b>2006年度の研究業績</b></i></center>
+	</font>
+
+	<table width=100% border=0 cellspacing=0 cellpadding=7 bordercolorlight=black bordercolordark=white>
+		<!-- 国際会議1 -->
+		<tr>
+			<td colspan=2>
+				国際会議
+			</td>
+		</tr>
+		<tr>
+			<td align="center" valign="top">
+				1
+			</td>
+			<td>
+				Calkin S.Montero and Kenji Araki<br>
+				Is It Correct? - Towards Web-Based Evaluation of Automatic Natural Language Phrase Generation<br>
+				Proceedings of the COLING/ACL 2006 Interactive Presentation Sessions, pp.5-8, 2006 <a href="2006-A-1.pdf">pdf</a><br>
+			</td>
+		</tr>
+
+		<!-- 国際会議2 -->
+		<tr>
+			<td align="center" valign="top">
+				2
+			</td>
+			<td>
+				Shinya Yamada, Toshihiko Itoh and Kenji Araki <br>
+				Is Voice Quality Enough? - Study on How the Situation and User's Awareness Influence the Utterance Features<br>
+				INTERSPEECH 2006, pp. 481-484, Pittsburgh, Pennsylvania, USA, Sep. 17-24, 2006. <a href="2006-A-2.pdf">pdf</a><br>
+			</td>
+		</tr>
+
+		<!-- 国際会議3 -->
+		<tr>
+			<td align="center" valign="top">
+				3
+			</td>
+			<td>
+				Kenji Araki and Michitomo Kuroda <br>
+				Generality of Spoken Dialogue System Using SeGA-IL for Different Languages<br>
+				Proceeding of the IASTED International Conference COMPUTER INTELLIGENCE, pp.70-75, San Francisco, CA, U.S.A., Nov. 20-22, 2006. <a href="2006-A-3.pdf">pdf</a><br>
+			</td>
+		</tr>
+
+		<!-- 国際会議4 -->
+		<tr>
+			<td align="center" valign="top">
+				4
+			</td>
+			<td>
+				Rafal Rzepka, Kenji Araki<br>
+				What About Tests In Smart Environments? On Possible Problems With Common Sense In Ambient Intelligence<br>
+				Proceedings of 2nd Workshop on Artificial Intelligence Techniques for Ambient Intelligence, pp.92-96, 2007, Hyderabad, India, Jan. 7, 2007. <a href="2006-A-4.pdf">pdf</a><br>
+			</td>
+		</tr>
+
+
+	</table>
+</body>
+</html>
+

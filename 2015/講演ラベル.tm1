@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AutoLength</key>
+	<true/>
+	<key>BlankLeft</key>
+	<integer>10</integer>
+	<key>BlankRight</key>
+	<integer>10</integer>
+	<key>Bold</key>
+	<false/>
+	<key>CancelLine</key>
+	<integer>0</integer>
+	<key>DocumentType</key>
+	<string>KING JIM SIMPLE LABEL SOFT SMA3 Document</string>
+	<key>FontName</key>
+	<string>HiraKakuPro-W6</string>
+	<key>FontSize</key>
+	<integer>1</integer>
+	<key>FrameKind</key>
+	<integer>0</integer>
+	<key>FrameStyle</key>
+	<integer>1</integer>
+	<key>FrameWidth</key>
+	<integer>2</integer>
+	<key>HaveImage</key>
+	<false/>
+	<key>HaveQRCode</key>
+	<false/>
+	<key>Image</key>
+	<data>
+	</data>
+	<key>ImagePosition</key>
+	<integer>1</integer>
+	<key>Italic</key>
+	<false/>
+	<key>Justify</key>
+	<integer>1</integer>
+	<key>PrinterKind</key>
+	<string>KING_JIM_TEPRA_PRO_SR5900P_3</string>
+	<key>QRcodePosition</key>
+	<integer>1</integer>
+	<key>QRcodeString</key>
+	<string></string>
+	<key>TapeLength</key>
+	<real>85</real>
+	<key>TapeWidth</key>
+	<integer>12</integer>
+	<key>TextString</key>
+	<string>講演予稿別刷１１</string>
+	<key>Threshold</key>
+	<integer>128</integer>
+	<key>UnderLine</key>
+	<integer>0</integer>
+	<key>Version</key>
+	<string>1.0</string>
+	<key>WriteVertical</key>
+	<true/>
+</dict>
+</plist>
